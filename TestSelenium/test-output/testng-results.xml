@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="161" started-at="2019-10-01T21:12:15 IST" finished-at="2019-10-01T21:12:15 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="161" started-at="2019-10-01T21:12:15 IST" finished-at="2019-10-01T21:12:15 IST">
+      <class name="TestSelenium.TestSelenium.TestNGTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:TestSelenium.TestSelenium.TestNGTest@79be0360]" name="beforeSuite" is-config="true" duration-ms="34" started-at="2019-10-01T21:12:15 IST" finished-at="2019-10-01T21:12:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestSelenium.TestSelenium.TestNGTest@79be0360]" name="beforeTest" is-config="true" duration-ms="3" started-at="2019-10-01T21:12:15 IST" finished-at="2019-10-01T21:12:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestSelenium.TestSelenium.TestNGTest@79be0360]" name="beforeClass" is-config="true" duration-ms="1" started-at="2019-10-01T21:12:15 IST" finished-at="2019-10-01T21:12:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestSelenium.TestSelenium.TestNGTest@79be0360]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-10-01T21:12:15 IST" finished-at="2019-10-01T21:12:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String)[pri:0, instance:TestSelenium.TestSelenium.TestNGTest@79be0360]" name="f" duration-ms="19" started-at="2019-10-01T21:12:15 IST" data-provider="dp" finished-at="2019-10-01T21:12:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestSelenium.TestSelenium.TestNGTest@79be0360]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-10-01T21:12:15 IST" finished-at="2019-10-01T21:12:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestSelenium.TestSelenium.TestNGTest@79be0360]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-10-01T21:12:15 IST" finished-at="2019-10-01T21:12:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String)[pri:0, instance:TestSelenium.TestSelenium.TestNGTest@79be0360]" name="f" duration-ms="3" started-at="2019-10-01T21:12:15 IST" data-provider="dp" finished-at="2019-10-01T21:12:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestSelenium.TestSelenium.TestNGTest@79be0360]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-10-01T21:12:15 IST" finished-at="2019-10-01T21:12:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestSelenium.TestSelenium.TestNGTest@79be0360]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-10-01T21:12:15 IST" finished-at="2019-10-01T21:12:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestSelenium.TestSelenium.TestNGTest@79be0360]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-10-01T21:12:15 IST" finished-at="2019-10-01T21:12:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:TestSelenium.TestSelenium.TestNGTest@79be0360]" name="afterSuite" is-config="true" duration-ms="1" started-at="2019-10-01T21:12:15 IST" finished-at="2019-10-01T21:12:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- TestSelenium.TestSelenium.TestNGTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
