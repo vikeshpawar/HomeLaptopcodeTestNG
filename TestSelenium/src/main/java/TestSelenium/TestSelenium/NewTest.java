@@ -55,7 +55,7 @@ public class NewTest {
 
   @AfterSuite
   public void afterSuite() {
-	System.out.println(" IN @@AfterSuite ");
+	System.out.println(" IN @@AfterSuite my");
  }
 
 }
